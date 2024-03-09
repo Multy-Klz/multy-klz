@@ -8,10 +8,12 @@ My journey includes experiences as a Designer, where I was able to delve into th
 
 ## **Projects**
 - [Página Web para Ensino-Aprendizagem de Algoritmos de Exclusão Mútua Utilizando Explorable Explanations no contexto de Sistemas Distribuídos](https://multy-klz.github.io/Mutual-Exclusion-Algorithms-Using-Explorable-Explanations/)
-
+- [Problems with Mutex and Semaphoro](https://github.com/Multy-Klz/Problems-with-Mutex-and-Semaphoro)
 ## **Stack** 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+          
+          
           
 ## **About my github profile**
 
