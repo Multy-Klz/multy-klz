@@ -7,7 +7,7 @@ My journey includes experiences as a Designer, where I was able to delve into th
 
 
 ## **Projects**
-[Página Web para Ensino-Aprendizagem de Algoritmos de Exclusão Mútua Utilizando Explorable Explanations no contexto de Sistemas Distribuídos](https://multy-klz.github.io/Mutual-Exclusion-Algorithms-Using-Explorable-Explanations/)
+- [Página Web para Ensino-Aprendizagem de Algoritmos de Exclusão Mútua Utilizando Explorable Explanations no contexto de Sistemas Distribuídos](https://multy-klz.github.io/Mutual-Exclusion-Algorithms-Using-Explorable-Explanations/)
 
 ## **Stack** 
 
