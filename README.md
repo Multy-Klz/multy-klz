@@ -12,8 +12,8 @@ My journey includes experiences as a Designer, where I was able to delve into th
 ## **Stack** 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="MongoDB" src="https://www.cdnlogo.com/logos/t/58/tailwindcss.png"></code> 
-<code><img height="20" alt="Figma" src="https://www.cdnlogo.com/logos/f/43/figma.png"></code> 
+<code><img height="20" alt="MongoDB" src="https://www.cdnlogo.com/logos/t/58/tailwindcss.svg"></code> 
+<code><img height="20" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></code> 
           
           
           
