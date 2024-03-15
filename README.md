@@ -12,7 +12,7 @@ My journey includes experiences as a Designer, where I was able to delve into th
 ## **Stack** 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="MongoDB" src="https://icons8.com.br/icon/o6OvAxG0nzTH/mongo-db"></code>
           
           
           
